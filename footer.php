@@ -1,7 +1,7 @@
 
 <!-- Contact Section -->
   
-<section class="page-section bg-dark text-white" id="contact">
+<section class="page-section bg-dark text-white" id="contact" style="background-color:#DBDBDB !important;">
     <div class="container">
        <div class="row">
       <div class="row justify-content-center col-lg-4">
@@ -20,7 +20,10 @@
       </ul>
       
       </div>
-      <div class="row col-lg-6">
+      <div class="col-md-4">
+          <img src="img/logo.png" width="100%">
+      </div>
+      <div class="row col-lg-4">
         <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0 bc">
           <i class="fas fa-phone fa-3x mb-3 text-muted"></i>
           <div>Teléfono:<br> +54 11 5353 9977</div>
@@ -36,7 +39,7 @@
   </section>
 
 <!-- Footer -->
-  <footer class="bg-light py-5" style="background-color:#2a4594    !important;padding-top:5px !important;padding-bottom:5px !important;" >
+  <footer class="bg-light py-5" style="background-color:#f2f2f2    !important;padding-top:5px !important;padding-bottom:5px !important;" >
     <div class="container">
       <div class="small text-center text-muted">© Copyright 2015 - 2019   |   WISE Solutions S.A.   |   Todos los Derechos Reservados   |   Powered by WiseSolutions</div>
     </div>

@@ -8,7 +8,7 @@
         </div>
         <div class="col-lg-8 align-self-baseline" style="color:white">
           <p class="text-white-75 font-weight-light mb-5" style="color:white !important;">Anticipamos y minimizamos riesgos y le brindamos atencion dedicada y personalizada</p>
-          <a class="btn btn-primary btn-xl js-scroll-trigger" href="contacto.php">Asesorate ya!</a>
+          <a class="btn btn-primary btn-xl js-scroll-trigger" href="contacto.php" style="background-color:red !important;">Asesorate ya!</a>
         </div>
       </div>
     </div>
