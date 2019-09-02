@@ -3,12 +3,12 @@
     <div class="container h-100">
       <div class="row h-100 align-items-center justify-content-center text-center">
         <div class="col-lg-10 align-self-end">
-          <h1 class="text-uppercase text-white font-weight-bold">Transportamos con seguridad y confianza</h1>
+          <h1 class="text-uppercase text-white font-weight-bold">Transportamos seguridad y confianza</h1>
           <hr class="divider my-4">
         </div>
-        <div class="col-lg-8 align-self-baseline">
-          <p class="text-white-75 font-weight-light mb-5">Anticipamos y minimizamos riesgos y le brindamos atencion dedicada y personalizada</p>
-          <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Asesorate ya!</a>
+        <div class="col-lg-8 align-self-baseline" style="color:white">
+          <p class="text-white-75 font-weight-light mb-5" style="color:white !important;">Anticipamos y minimizamos riesgos y le brindamos atencion dedicada y personalizada</p>
+          <a class="btn btn-primary btn-xl js-scroll-trigger" href="contacto.php">Asesorate ya!</a>
         </div>
       </div>
     </div>
@@ -17,11 +17,11 @@
   <!-- About Section -->
   <section class="page-section bg-primary" id="about">
     <div class="container">
-      <div class="row justify-content-center">
+      <div class="row justify-content-center" >
         <div class="col-lg-8 text-center">
           <h2 class="text-white mt-0">¿Que es Interalmar?</h2>
           <hr class="divider light my-4">
-          <p class="text-white-50 mb-4">Es parte de un grupo integral de Agentes de carga, estratégicamente localizados para atender las necesidades de nuestros socios locales e internacionales, quienes depositan en nosotros el cuidado de sus cargas.!</p>
+          <p class="text-white-50 mb-4" style="color:white !important;" >Es parte de un grupo integral de Agentes de carga, estratégicamente localizados para atender las necesidades de nuestros socios locales e internacionales, quienes depositan en nosotros el cuidado de sus cargas.!</p>
      
         </div>
       </div>
@@ -73,7 +73,7 @@
     </div>
     <div class="container text-center" style="margin-top:100px;">
       <h2 class="mb-4">Contactanos o consulta nuestras opciones para ti!</h2>
-      <a class="btn btn-light btn-xl" style='background-color:red;color:#fff;' href="https://startbootstrap.com/themes/creative/">Servicios!</a>
+      <a class="btn btn-light btn-xl" style='background-color:red;color:#fff;' href="servicios.php">Servicios!</a>
     </div>
   </section>
 

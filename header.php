@@ -21,3 +21,16 @@
   <link href="css/creative.min.css" rel="stylesheet">
 
 </head>
+<style>
+.servicios-h{
+  background: linear-gradient(to bottom,rgba(31, 26, 23, 0.1) 0,rgba(31, 26, 23, 0.5) 100%),url(img/servicio.jpg) !important;
+  height: 40vh !important;
+padding-top: 22px !important;
+min-height: 20rem !important;
+background-position: center center !important;
+
+}
+.herramienta a{
+color:white !important;
+}
+</style>

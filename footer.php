@@ -10,14 +10,12 @@
         <li class="nav-item">
           <a class="nav-link" href="#"></a>
         </li>
+  
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-users"></i> ¿Nuestra empresa?</a>
+          <a class="nav-link" href="herramientas.php"><i class="fas fa-cog"></i> Herramientas</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-cog"></i> Herramientas</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#"><i class="fas fa-box"></i> Servicios</a>
+          <a class="nav-link disabled" href="servicios.php"><i class="fas fa-box"></i> Servicios</a>
         </li>
       </ul>
       
